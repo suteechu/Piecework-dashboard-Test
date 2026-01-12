@@ -1,0 +1,50 @@
+[
+  {
+    "Section": "Board cut",
+    "Year": 2025,
+    "month": 1,
+    "Amount": 103812,
+    "Number of people": 8,
+    "average": 12976.5
+  },
+  {
+    "Section": "Board cut",
+    "Year": 2025,
+    "month": 2,
+    "Amount": 94852,
+    "Number of people": 7,
+    "average": 13550.29
+  },
+  {
+    "Section": "Board cut",
+    "Year": 2025,
+    "month": 3,
+    "Amount": 88829,
+    "Number of people": 7,
+    "average": 12689.86
+  },
+  {
+    "Section": "AS-IW",
+    "Year": 2025,
+    "month": 1,
+    "Amount": 75210,
+    "Number of people": 6,
+    "average": 12535.0
+  },
+  {
+    "Section": "AS-IW",
+    "Year": 2025,
+    "month": 2,
+    "Amount": 81210,
+    "Number of people": 7,
+    "average": 11601.43
+  },
+  {
+    "Section": "AS-IW",
+    "Year": 2025,
+    "month": 3,
+    "Amount": 68000,
+    "Number of people": 6,
+    "average": 11333.33
+  }
+]
